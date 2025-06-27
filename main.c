@@ -1,4 +1,4 @@
-#include "src/t14_nested_if_statements.c"
+#include "src/t15_calculator.c"
 
 int main(void) {
   run();
