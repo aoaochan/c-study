@@ -1,4 +1,4 @@
-#include "src/t15_calculator.c"
+#include "src/t16_logical_operators.c"
 
 int main(void) {
   run();
