@@ -1,4 +1,4 @@
-#include "src/t7_math.c"
+#include "src/t8_circle_calculator_program.c"
 
 int main(void) {
   run();
