@@ -1,4 +1,4 @@
-#include "src/t20_function_prototype.c"
+#include "src/t21_while_loops.c"
 
 int main(void) {
   run();
