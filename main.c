@@ -1,4 +1,4 @@
-#include "src/t10_if_statements.c"
+#include "src/t11_weight_converter.c"
 
 int main(void) {
   run();
