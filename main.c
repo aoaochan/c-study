@@ -1,4 +1,4 @@
-#include "src/t5_shopping_cart_program.c"
+#include "src/t6_mad_libs_game.c"
 
 int main(void) {
   run();
