@@ -1,4 +1,4 @@
-#include "src/t16_logical_operators.c"
+#include "src/t17_functions.c"
 
 int main(void) {
   run();
