@@ -1,4 +1,4 @@
-#include "src/t6_mad_libs_game.c"
+#include "src/t7_math.c"
 
 int main(void) {
   run();
