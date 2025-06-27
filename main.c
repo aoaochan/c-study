@@ -1,4 +1,4 @@
-#include "src/t18_return.c"
+#include "src/t19_variable_scope.c"
 
 int main(void) {
   run();
