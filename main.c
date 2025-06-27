@@ -1,4 +1,4 @@
-#include "src/t9_compound_interest_calculator.c"
+#include "src/t10_if_statements.c"
 
 int main(void) {
   run();
