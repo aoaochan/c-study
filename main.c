@@ -1,4 +1,4 @@
-#include "src/t12_temperature_program.c"
+#include "src/t13_switch.c"
 
 int main(void) {
   run();
