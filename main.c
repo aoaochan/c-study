@@ -1,4 +1,4 @@
-#include "src/t21_while_loops.c"
+#include "src/t22_for_loops.c"
 
 int main(void) {
   run();
