@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int main(void) { // int main(int argc, char **argv) {
+int run(void) { // int main(int argc, char **argv) {
     // if (argc != 1) printf("(argc: %d, argv: %s)\n", argc, argv[0]);
     // printf("Hello, world!\n");
 
@@ -44,7 +44,6 @@ int main(void) { // int main(int argc, char **argv) {
     printf("isOnline: %d\n", isOnline); // 0 == false, 1 == true
     if (isOnline) printf("You are online.\n");
     else printf("You are offline.\n");
-    
 
     return 0;
 }

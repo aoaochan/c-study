@@ -11,7 +11,7 @@ dependencies = [
 
 exe = executable(
   'asdf-qwer',
-  'asdf_qwer.c',
+  'main.c',
   dependencies : dependencies,
   install : true,
 )
