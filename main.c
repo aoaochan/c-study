@@ -1,4 +1,4 @@
-#include "src/t19_variable_scope.c"
+#include "src/t20_function_prototype.c"
 
 int main(void) {
   run();
