@@ -1,4 +1,4 @@
-#include "src/t8_circle_calculator_program.c"
+#include "src/t9_compound_interest_calculator.c"
 
 int main(void) {
   run();
