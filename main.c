@@ -1,4 +1,4 @@
-#include "src/t1_variable.c"
+#include "src/t2_format_specifier.c"
 
 int main(void) {
   run();
