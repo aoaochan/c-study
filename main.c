@@ -1,4 +1,4 @@
-#include "src/t24_nested_loop.c"
+#include "src/t25_random_numbers.c"
 
 int main(void) {
   run();
