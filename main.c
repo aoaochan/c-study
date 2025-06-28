@@ -1,4 +1,4 @@
-#include "src/t25_random_numbers.c"
+#include "src/t26_number_guessing_game.c"
 
 int main(void) {
   run();
