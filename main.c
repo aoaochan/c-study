@@ -1,4 +1,4 @@
-#include "src/t30_arrays_and_user_input.c"
+#include "src/t31_2d_arrays.c"
 
 int main(void) {
   run();
