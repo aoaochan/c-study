@@ -1,4 +1,4 @@
-#include "src/t27_rock_paper_scissors.c"
+#include "src/t28_banking_program.c"
 
 int main(void) {
   run();
