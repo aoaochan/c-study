@@ -1,4 +1,4 @@
-#include "src/t31_2d_arrays.c"
+#include "src/t32_arrays_of_strings.c"
 
 int main(void) {
   run();
