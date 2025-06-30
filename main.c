@@ -1,4 +1,4 @@
-#include "src/t28_banking_program.c"
+#include "src/t29_arrays.c"
 
 int main(void) {
   run();
