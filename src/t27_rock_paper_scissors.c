@@ -28,7 +28,6 @@ int getUserChoice() {
   while (option < 1 || option > 3) {
     printf("Choose an option\n1. ROCK\n2. PAPER\n3. SCISSORS\nEnter your choice: ");
     scanf("%d", &option);
-    sscanf("%d", &option);
 
     switch (option) {
       case 1: printf("You choose ROCK!\n"); break;
