@@ -1,4 +1,4 @@
-#include "src/t26_number_guessing_game.c"
+#include "src/t27_rock_paper_scissors.c"
 
 int main(void) {
   run();
