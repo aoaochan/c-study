@@ -1,4 +1,4 @@
-#include "src/t42_malloc.c"
+#include "src/t43_calloc.c"
 
 int main(void) {
   run();
