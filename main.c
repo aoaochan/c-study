@@ -1,4 +1,4 @@
-#include "src/t36_enums.c"
+#include "src/t37_structs.c"
 
 int main(void) {
   run();
