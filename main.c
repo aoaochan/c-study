@@ -1,4 +1,4 @@
-#include "src/t32_arrays_of_strings.c"
+#include "src/t33_quiz_game.c"
 
 int main(void) {
   run();
