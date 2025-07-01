@@ -1,4 +1,4 @@
-#include "src/t39_pointers.c"
+#include "src/t40_write_files.c"
 
 int main(void) {
   run();
