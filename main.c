@@ -1,4 +1,4 @@
-#include "src/t33_quiz_game.c"
+#include "src/t34_ternary_operator.c"
 
 int main(void) {
   run();
