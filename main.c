@@ -1,4 +1,4 @@
-#include "src/t41_read_files.c"
+#include "src/t42_malloc.c"
 
 int main(void) {
   run();
