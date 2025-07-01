@@ -1,4 +1,4 @@
-#include "src/t44_realloc.c"
+#include "src/t46_bit_operation.c"
 
 int main(void) {
   run();
