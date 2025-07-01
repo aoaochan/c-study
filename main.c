@@ -1,4 +1,4 @@
-#include "src/t38_arrays_of_structs.c"
+#include "src/t39_pointers.c"
 
 int main(void) {
   run();
