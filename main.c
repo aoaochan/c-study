@@ -1,4 +1,4 @@
-#include "src/t46_bit_operation.c"
+#include "src/t47_pointer_review.c"
 
 int main(void) {
   run();
