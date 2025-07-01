@@ -1,4 +1,4 @@
-#include "src/t35_typedef.c"
+#include "src/t36_enums.c"
 
 int main(void) {
   run();
