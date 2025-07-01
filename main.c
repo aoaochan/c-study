@@ -1,4 +1,4 @@
-#include "src/t40_write_files.c"
+#include "src/t41_read_files.c"
 
 int main(void) {
   run();
