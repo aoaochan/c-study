@@ -1,4 +1,4 @@
-#include "src/t34_ternary_operator.c"
+#include "src/t35_typedef.c"
 
 int main(void) {
   run();
